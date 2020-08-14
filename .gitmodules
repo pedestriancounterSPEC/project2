@@ -1,0 +1,3 @@
+[submodule "ExploreOpencvDnn-master"]
+	path = ExploreOpencvDnn-master
+	url = https://github.com/pedestriancounterSPEC/ML
